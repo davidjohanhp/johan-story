@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Johan Story Application is an Android app created as the final submission for the "Dicoding Belajar Pengembangan Aplikasi Android Intermediate" course. This app is designed to demonstrate advanced Android development skills, including user authentication, story creation, and location services.
+The Johan Story Application is an Android app created as the final submission for the "Belajar Pengembangan Aplikasi Android Intermediate" Dicoding course. This app is designed to demonstrate advanced Android development skills, including user authentication, story creation, and location services.
 
 **Please note:** This repository is meant for reference only. Dicoding has a strict plagiarism policy, and all submissions are checked for originality. Use this code to learn and inspire your projects, not to submit as your own work.
 
@@ -18,11 +18,11 @@ The Johan Story Application is an Android app created as the final submission fo
 
 | Login                                                             | Register                                                          | Home                                                             |
 |-------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------|
-| ![](assets/ss/Aplikasi Android Intermediate - login.png?raw=true) | ![](assets/ss/Aplikasi Android Intermediate - regis.png?raw=true) | ![](assets/ss/Aplikasi Android Intermediate - home.png?raw=true) |
+| ![](https://github.com/davidjohanhp/johan-story/blob/main/assets/Aplikasi%20Android%20Intermediate%20-%20login.png?raw=true) | ![](https://github.com/davidjohanhp/johan-story/blob/main/assets/Aplikasi%20Android%20Intermediate%20-%20regis.png?raw=true) | ![](https://github.com/davidjohanhp/johan-story/blob/main/assets/Aplikasi%20Android%20Intermediate%20-%20home.png?raw=true) |
 
 | Explore                                                             | Upload                                                             | Camera Upload                                                   | Settings                                                            |
 |---------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------------------|---------------------------------------------------------------------|
-| ![](assets/ss/Aplikasi Android Intermediate - explore.png?raw=true) | ![](assets/ss/Aplikasi Android Intermediate - upload.png?raw=true) | ![](assets/ss/Aplikasi Android Intermediate - cam.png?raw=true) | ![](assets/ss/Aplikasi Android Intermediate - setting.png?raw=true) |
+| ![](https://github.com/davidjohanhp/johan-story/blob/main/assets/Aplikasi%20Android%20Intermediate%20-%20explore.png?raw=true) | ![](https://github.com/davidjohanhp/johan-story/blob/main/assets/Aplikasi%20Android%20Intermediate%20-%20upload.png?raw=true) | ![](https://github.com/davidjohanhp/johan-story/blob/main/assets/Aplikasi%20Android%20Intermediate%20-%20cam.png?raw=true) | ![](https://github.com/davidjohanhp/johan-story/blob/main/assets/Aplikasi%20Android%20Intermediate%20-%20setting.png?raw=true) |
 
 
 ## Getting Started
